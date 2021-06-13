@@ -32,7 +32,6 @@ print(data.crs)
 
 #  YOUR CODE HERE 3 to group 
 grouped=data.groupby("userid")
-
 # CODE FOR TESTING YOUR SOLUTION
 
 #Check the number of groups:
