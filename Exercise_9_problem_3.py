@@ -77,6 +77,7 @@ def calculate_distance(x):
     return x["geometry"].length
 
 movements["distance"]=movements.apply(calculate_distance,axis=1)
+
 # CODE FOR TESTING YOUR SOLUTION
 
 #Check the output
