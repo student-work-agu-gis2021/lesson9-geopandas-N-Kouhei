@@ -59,6 +59,7 @@ assert os.path.isfile(fp), "output shapefile does not exist"
 # YOUR CODE HERE 3
 geo.plot()
 
+
 # Well done! Now you can move on to Exercise_9_problem_3.
 
 def func5():
