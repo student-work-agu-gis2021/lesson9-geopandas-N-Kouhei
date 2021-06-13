@@ -16,6 +16,7 @@ data=gpd.read_file('Kruger_posts.shp')
 
 # YOUR CODE HERE 2 to set crs
 data=data.to_crs(epsg=32735)
+
 # CODE FOR TESTING YOUR SOLUTION
 
 # Check the data
